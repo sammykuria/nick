@@ -27,24 +27,21 @@ function Home() {
 
         <div className='grid-container'>
           <div className='card'>
-          <img src='https://img.freepik.com/premium-photo/teacher-explains-concept-his-students-classroom_14117-1130621.jpg' alt='imagine'></img>
-           <div className='cardtext'>
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcD-KfWUKiQfq7WHi-NOV_7jlS4O-luYsanA&s' alt='destiny'></img>           <div className='cardtext'>
            <h2>Preparation for Exams</h2>
             <h4>$25</h4>
             <p>Price per lesson</p>
            </div>
           </div>
           <div className='card'>
-          <img src='https://img.freepik.com/premium-photo/teacher-explains-concept-his-students-classroom_14117-1130621.jpg' alt='imagine'></img>
-          <div className='cardtext'>
-          <h2>English For Beginers</h2>
+          <img src='https://www.shutterstock.com/image-photo/kpi-dashboard-graph-presentation-classroom-600nw-2466399827.jpg' alt='destiny'></img>          <div className='cardtext'>
+          <h2>Business English</h2>
             <h4>$25</h4>
             <p>Price per lesson</p>
            </div>
           </div>
           <div className='card'>
-          <img src='https://img.freepik.com/premium-photo/teacher-explains-concept-his-students-classroom_14117-1130621.jpg' alt='imagine'></img>
-          <div className='cardtext'>
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuj7km69Y1XDRufxUWh7qWaJTCf6pVx2n1qg&s' alt='destiny'></img>          <div className='cardtext'>
            <h2>English For Kids</h2>
             <h4>$25</h4>
             <p>Price per lesson</p>
