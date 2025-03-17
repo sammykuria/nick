@@ -786,6 +786,16 @@ font-size: 15px;
   margin: 50px;
   width: 60%; */
 }
+.secondshooter span{
+  font-weight: 700;
+  color: black;
+}
+.secondshooter h3{
+  background-color: rgba(55, 226, 166, 0.455);
+  width: fit-content;
+  padding: 10px;
+  font-size: 24px;
+}
 .goback i{
 font-size: 20px;
 }

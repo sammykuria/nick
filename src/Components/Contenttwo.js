@@ -28,8 +28,8 @@ function Contenttwo() {
      <p><span>Emails and Report Writing:</span> Delivering clear and concise information to an audience</p>
      <p><span>Small Talk and Networking:</span> Delivering clear and concise information to an audience</p>
    </div>
-   <div>
-     <h3>Formal Writing</h3>
+   <div className='secondshooter'>
+     <h3 >Formal Writing</h3>
      <p>Business English emphasizes using formal vocabulary and avoiding slang or colloquial language.</p>
    </div>
    </div>

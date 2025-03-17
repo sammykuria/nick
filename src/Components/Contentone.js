@@ -32,10 +32,10 @@ function Contentone() {
       <div className='secondshooter'>
         <h3>Practice & Resources</h3>
         <h5>Online exam preparation relies on various digital tools, including:</h5>
-        <p> Mock Tests & Practice Questions – Simulating real exam conditions with platforms like Magoosh, Exam English, and British Council.</p>
-        <p> AI-Powered Writing & Speaking Feedback – Improving skills with tools like Grammarly, QuillBot, and ELSA Speak.</p>
-        <p> Live & Recorded Lessons – Learning from expert tutors on platforms such as Preply, Cambly, and Coursera.</p>
-        <p> Self-Paced Study Plans – Using structured courses and apps like Duolingo English Test and BBC Learning English.</p>
+        <p><span>Mock Tests & Practice Questions</span>  – Simulating real exam conditions with platforms like Magoosh, Exam English, and British Council.</p>
+        <p><span>AI-Powered Writing & Speaking Feedback</span>  – Improving skills with tools like Grammarly, QuillBot, and ELSA Speak.</p>
+        <p><span>Live & Recorded Lessons</span>  – Learning from expert tutors on platforms such as Preply, Cambly, and Coursera.</p>
+        <p><span>Self-Paced Study Plans</span>   –Using structured courses and apps like Duolingo English Test and BBC Learning English.</p>
       </div>
 
       </div>

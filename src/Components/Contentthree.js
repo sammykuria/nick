@@ -21,14 +21,17 @@ function Contentthree() {
       </div>
       <div className='secondshooter'>
         <h3> Fun & Interactive Learning</h3>
-        <h5>it includes skills like</h5>
-        <p><span>Presentations:</span> Delivering clear and concise information to an audience</p>
+        {/* <h5>it includes skills like</h5> */}
+        <p>Many platforms use games, songs, animations, and interactive exercises to keep kids engaged</p>
+        <p>Gamification helps in reward-based learning, which keeps children motivated.</p>
         <h3>Popular Online Platforms</h3>
         <p><span>Duolingo Kids:</span> Delivering clear and concise information to an audience</p>
-        <p><span>Emails and Report Writing:</span> Delivering clear and concise information to an audience</p>
-        <p><span>Small Talk and Networking:</span> Delivering clear and concise information to an audience</p>
+        <p><span>ABCmouse :</span>– Full curriculum with English lessons.</p>
+        <p><span>Lingokids:</span> – Fun activities tailored for kids</p>
+        <h3>Focus on Listening & Speaking</h3>
+        <p>Many programs emphasize pronunciation, listening comprehension, and conversational English using AI chatbots or human tutors.</p>
       </div>
-      <div>
+      <div className='secondshooter'>
         <h3>Parental Involvement</h3>
         <p>Parents can track progress through dashboards and reports.</p>
         <p>Some platforms provide homework and worksheets for extra practice.</p>
